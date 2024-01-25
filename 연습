@@ -1,3 +1,9 @@
 안녕하세요
 1+1=2
 ggm.txt
+git commit -m "the commit"
+git config --global user.email "ljohappyday@gmail.com"
+git config --global user.name "123"
+git remote add origin https://github.com/K-W-J/test.git
+git remote -v
+EEE
